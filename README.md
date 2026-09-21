@@ -32,6 +32,7 @@ Reusable LWCs and UI components for the Life Sciences Cloud web and mobile (iPad
 | [LWC-as-standalone-tab](https://github.com/afls-ideas/LWC-as-standalone-tab) | Patient Journey Simulator LWC for the LSC mobile app (custom tab / App Page). |
 | [medical-insight-signal-map](https://github.com/afls-ideas/medical-insight-signal-map) | Interactive LWC for Agentforce LSC — visualizes Medical Insight relationships as a force-directed graph on iPad. |
 | [AFLS_LocalDB_QueryTool](https://github.com/afls-ideas/AFLS_LocalDB_QueryTool) | Diagnostic Intelligent Content tool to inspect the local SQLite database on the LSC iPad app (45+ objects, SOQL builder). |
+| [LSC-AF-LWC-Inline](https://github.com/afls-ideas/LSC-AF-LWC-Inline) | Example library of Custom Lightning Type + inline LWC pairs for Agentforce output cards (`lightning__AgentforceOutput`) — real live-data queries, dual Web/Mobile rendering, and an Agent Script-deployed test agent to try each one against a live chat. |
 
 ## 🎬 Intelligent Content & Presentations
 
@@ -115,4 +116,4 @@ Agentic-coding setups and learning repos.
 
 ---
 
-<sub>Index of 36 repositories across the <a href="https://github.com/afls-ideas">afls-ideas</a> account. To add a repo, drop it in the matching category above.</sub>
+<sub>Index of 37 repositories across the <a href="https://github.com/afls-ideas">afls-ideas</a> account. To add a repo, drop it in the matching category above.</sub>
