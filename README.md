@@ -54,6 +54,7 @@ Agentforce agents and agent collections for field sales and medical affairs.
 | Repo | Description |
 |------|-------------|
 | [Power_Agent_ADLC](https://github.com/afls-ideas/Power_Agent_ADLC) | Field Sales HCP Power Agent — Agentforce employee agent on the Atlas Reasoning Engine (Agent Script), with 10 country-specific variants. Desktop + mobile SDK. |
+| [AgentForce-Field-Voice-POC](https://github.com/afls-ideas/AgentForce-Field-Voice-POC) | Agentforce Employee Agent with Agentforce Voice for the Salesforce Mobile app — a hands-free Life Sciences Cloud assistant (Agent Script) for visits, account summaries, affiliations, products detailed, events and more, with an English and a French agent. Includes a PRD. |
 | [Field_Medical_AgentForce_Starter](https://github.com/afls-ideas/Field_Medical_AgentForce_Starter) | Field Medical Agentforce Starter Kit. |
 | [life-sciences-agency-agents](https://github.com/afls-ideas/life-sciences-agency-agents) | A collection of specialized AI agents for a virtual life sciences company, built for Claude Code and other agentic coding tools. |
 
@@ -116,4 +117,4 @@ Agentic-coding setups and learning repos.
 
 ---
 
-<sub>Index of 37 repositories across the <a href="https://github.com/afls-ideas">afls-ideas</a> account. To add a repo, drop it in the matching category above.</sub>
+<sub>Index of 38 repositories across the <a href="https://github.com/afls-ideas">afls-ideas</a> account. To add a repo, drop it in the matching category above.</sub>
