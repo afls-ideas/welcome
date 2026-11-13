@@ -67,6 +67,7 @@ Patterns for adding actions and surfacing online-only functionality inside the A
 |------|-------------|
 | [Custom_Action_Starter_Kit](https://github.com/afls-ideas/Custom_Action_Starter_Kit) | Starter kit for building custom actions for AFLS. |
 | [Embedding_Online_Tabs_As_CustomActions](https://github.com/afls-ideas/Embedding_Online_Tabs_As_CustomActions) | Configure Quick/Custom Actions to launch online-only functionality (Tableau, Salesforce Maps, full-screen LWCs) without leaving the mobile app. |
+| [Visit_CustomActions](https://github.com/afls-ideas/Visit_CustomActions) | Custom actions on the Visit screen that open a pre-filled Expense or Task create form via an `lsc://` deeplink, so reps skip the related lists. Includes the required nav tabs and cache-publish pitfalls. |
 
 ## 📊 Demo Data & Starter Kits
 
