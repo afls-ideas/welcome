@@ -58,6 +58,9 @@ Agentforce agents and agent collections for field sales and medical affairs.
 | [Context-Aware-Agent](https://github.com/afls-ideas/Context-Aware-Agent) | Agentforce employee agent for field reps that starts from the iPad page context (record, object, page type, territory). Shows how to read the context variables from Agent Script and Apex. |
 | [Field_Medical_AgentForce_Starter](https://github.com/afls-ideas/Field_Medical_AgentForce_Starter) | Field Medical Agentforce Starter Kit. |
 | [life-sciences-agency-agents](https://github.com/afls-ideas/life-sciences-agency-agents) | A collection of specialized AI agents for a virtual life sciences company, built for Claude Code and other agentic coding tools. |
+| [Content-Search-AgentForce](https://github.com/afls-ideas/Content-Search-AgentForce) | Agentforce agent that finds the presentation slide containing the answer (Data 360 hybrid search over OCR'd slide text) and shows it inline on web and the AFLS iPad app. |
+| [Build_HCP_Portal_With_Agentic_Chat](https://github.com/afls-ideas/Build_HCP_Portal_With_Agentic_Chat) | HCP Portal Experience Cloud site with an Agentforce knowledge agent. An HCP asks a question in chat and gets the answer from slide text, with the slide shown as an inline LWC card. |
+| [Commercial_Engagement_Agents_Powerpack](https://github.com/afls-ideas/Commercial_Engagement_Agents_Powerpack) | Field Sales HCP Power Agent: Agentforce employee agent (Agent Script) with account summaries, visit schedule and daily briefing, plus country-specific variants. |
 
 ## ⚙️ Custom Actions & Extending the Mobile App
 
@@ -67,6 +70,7 @@ Patterns for adding actions and surfacing online-only functionality inside the A
 |------|-------------|
 | [Custom_Action_Starter_Kit](https://github.com/afls-ideas/Custom_Action_Starter_Kit) | Starter kit for building custom actions for AFLS. |
 | [Embedding_Online_Tabs_As_CustomActions](https://github.com/afls-ideas/Embedding_Online_Tabs_As_CustomActions) | Configure Quick/Custom Actions to launch online-only functionality (Tableau, Salesforce Maps, full-screen LWCs) without leaving the mobile app. |
+| [AF_Coworker_CustomAction](https://github.com/afls-ideas/AF_Coworker_CustomAction) | Metadata package that adds an AF Coworker custom action to the LSC Home Page, launching the Agentforce Ask experience. |
 | [Visit_CustomActions](https://github.com/afls-ideas/Visit_CustomActions) | Custom actions on the Visit screen that open a pre-filled Expense or Task create form via an `lsc://` deeplink, so reps skip the related lists. Includes the required nav tabs and cache-publish pitfalls. |
 
 ## 📊 Demo Data & Starter Kits
@@ -88,6 +92,7 @@ Hands-on "how-to" guides, data model references, and configuration walkthroughs.
 | Repo | Description |
 |------|-------------|
 | [How-to-setup-Consent](https://github.com/afls-ideas/How-to-setup-Consent) | Set up Consent Management — data model, sharing rules, and country-based channel visibility. |
+| [eppv-provider-engagement-compliance](https://github.com/afls-ideas/eppv-provider-engagement-compliance) | Provider Engagement Compliance (EPPV/MID) demo for Agentforce Life Sciences: setup guide, flows, and a custom LWC cycle matrix report. |
 | [Learn-Consent-Management](https://github.com/afls-ideas/Learn-Consent-Management) | Consent Management setup guide with data model diagrams, real-world scenarios, and Apex data load scripts. |
 | [Learn-Events_262](https://github.com/afls-ideas/Learn-Events_262) | Events Management demo (262 release) — Immunexis Dinner Event config, OMCC, FlexiPage, workflow path/actions, and data model reference. |
 | [Learn_SearchBeforeCreate](https://github.com/afls-ideas/Learn_SearchBeforeCreate) | LWC + Apex tool to diagnose why a user cannot find an account in LSC Search Before Create. |
